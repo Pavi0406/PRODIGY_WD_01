@@ -1,4 +1,5 @@
 # PRODIGY_WD_01
 # INTERACTIVE WEBPAGE USING HTML,CSS,JAVASCRIPT
+![pro 1 post](https://github.com/Pavi0406/PRODIGY_WD_01/assets/131652022/9eb3eb61-8d28-4bad-bfab-e3a8b32435c4)
 https://github.com/Pavi0406/PRODIGY_WD_01/assets/131652022/4107f6a3-d43a-47e2-b5a2-fc8c005732c7
 
